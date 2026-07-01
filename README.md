@@ -1,4 +1,4 @@
-# Google_scrapper_python
+# Google_scrapper_python_Asynchronous
 
 ## What This Tool Does
 Think of this script as a digital assistant. It automatically **opens a hidden web browser**, visits **Google Maps**, types in **any business you want to find** (like "Dentists" or "Cafes"), and scans the results. It copies down their **Names, Phone Numbers, Addresses, Websites, and Working Hours**, and neatly **saves them for you** line-by-line.
