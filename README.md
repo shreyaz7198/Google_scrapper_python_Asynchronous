@@ -1,7 +1,7 @@
 # Google_scrapper_python_Asynchronous
 
 ## What This Tool Does
-Think of this script as a digital assistant. It automatically **opens a hidden web browser**, visits **Google Maps**, types in **any business you want to find** (like "Dentists" or "Cafes"), and scans the results. It copies down their **Names, Phone Numbers, Addresses, Websites, and Working Hours**, and neatly **saves them for you** line-by-line.
+Think of this script as a digital assistant. It automatically **opens a hidden web browser**, visits **Google Maps**, types in **any business you want to find** (like "Dentists" or "Cafes"), and scans the results. It copies down their **Names, Phone Numbers, Addresses, Websites, and Working Hours**, and neatly **saves them for you** line-by-line.  This works faster by **running multiple background browser tabs simultaneously to extract data at high speed** 
 
 ## Behind the Scenes (What makes it work)
 * **Python:** The underlying engine that runs our instructions.
@@ -31,12 +31,12 @@ git --version
  
 ### Step 2: Download the Tool to Your Computer
 * Open your internet browser and go to project's GitHub webpage
-[Google_scrapper_python](https://github.com/shreyaz7198/Google_scrapper_python)
+[Google_scrapper_python](https://github.com/shreyaz7198/Google_scrapper_python_Asynchronous)
 * Click the green Code button and copy the web address link shown there.
 * Open the Terminal app (if you use a Mac) or the Command Prompt / PowerShell app (if you use Windows).
 * Type this command, then press Enter on your keyboard to copy the files to your computer:
 ```bash
-git clone https://github.com/shreyaz7198/Google_scrapper_python.git
+git clone https://github.com/shreyaz7198/Google_scrapper_python_Asynchronous.git
 ```
 * Move your terminal inside the newly downloaded folder by typing:
 ```bash
